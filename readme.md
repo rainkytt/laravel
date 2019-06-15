@@ -4,8 +4,8 @@ Lõputöö siseveebi osa loodud Laravel 5.8.3 raamistikule.
 
 ## Peamised vahendid off-line keskkonnas toimimiseks
 
-1. Composer - https://getcomposer.org
-2. git clone https://rainkytt@bitbucket.org/rainkytt/siseveeb.git
+1. Composer: https://getcomposer.org
+2. git clone: https://github.com/rainkytt/laravel.git
 3. php arisan serve
 
 ## Ülesseadmine on-line keskkonda
