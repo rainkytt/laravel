@@ -1,0 +1,42 @@
+/* siseveebi avaleht ja tema nupud */
+body {
+    background-image: url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 100%;
+}
+a.btn-siseveeb {
+    width: 47%;
+    display: inline-block;
+    font-size: 1.25em;
+    padding: 0.55em 1.2em;
+    border: 0.1em solid #49494b;
+    margin: 0 0.45em 0.3em 0;
+    border-radius: 0.12em;
+    box-sizing: border-box;
+    text-decoration: none;
+    color: #49494b;
+    text-align: center;
+    transition: all 0.2s;
+}
+a.btn-siseveeb:hover {
+    color: #fff;
+    background-color: #49494b;
+}
+.btns-container {
+    text-transform: uppercase;
+    text-align: center;
+}
+/* küpsised */
+.js-cookie-consent {
+    position: absolute;
+    top: 0px;
+    padding: 10px;
+    text-align: center;
+    width: 100%;
+    z-index: 9999;
+    background-color: aqua;
+    border-color: aqua;
+    border: solid 1px;
+}
